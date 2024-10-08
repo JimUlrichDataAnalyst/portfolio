@@ -2,7 +2,9 @@
 
 # SKILLS
 
-• Team Collaboration | • Leadership | • Python | • SQL | • Tableau | • Excel – Pivot Tables | • A/B Testing | • Data Visualization | • Data Analysis | • Intercultural Skills 
+• Team Collaboration  • Leadership • Intercultural Skills 
+• Python  • SQL   • Tableau   • Excel – Pivot Tables
+• A/B Testing  • Data Visualization  • Data Analysis  
 
 # PROJECTS 
 
