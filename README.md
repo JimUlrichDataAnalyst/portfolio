@@ -1,4 +1,4 @@
-# Data Analyst
+# JAMES ULRICH  - Data Analyst
 
 # SKILLS
 
