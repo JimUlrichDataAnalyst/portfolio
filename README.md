@@ -8,7 +8,7 @@
 
 # PROJECTS 
 
-Tableau project for Global Career Accelerator featuring data from Intel ("C:\Users\julri\OneDrive\Documents\asu\Summer 2024\WPC 394\Intel- James Ulrich.twbx")
+Tableau project for Global Career Accelerator featuring data from Intel (https://1drv.ms/u/c/386de9cf4029a982/ESCBi1xQmplJi6XuXNdeVTwB4U-PVyMMg3KTpcsmB7nIKg?e=Huixp8)
 
-Trying to predict basketball scores using Gradient Boosting("C:\Users\julri\OneDrive\Documents\asu\Fall 2024\CIS 415\PROJECT\GradientBoosting.ipynb")
+Trying to predict basketball scores using Gradient Boosting (https://1drv.ms/u/c/386de9cf4029a982/EUsZRydv2FJMqZvw2cX1Q1gBge4SGhLuYnEMTDdgbl7mhg?e=uRkhts)
 
